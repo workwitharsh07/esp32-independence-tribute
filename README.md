@@ -1,4 +1,4 @@
-# 🇮🇳 ESP32 OLED Independence Day Tribute
+# ESP32 OLED Independence Day Tribute
 
 Celebrate **India's Independence Day** with an animated patriotic tribute on a **128×64 SSD1306 OLED** using an ESP32. The project combines cinematic transitions, typewriter-style text animations, patriotic messages, and a special **“I ♥ INDIA”** ending.
 
