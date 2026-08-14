@@ -1,3 +1,32 @@
+/*
+ * =============================================================================
+ * Project    : ESP32 OLED Independence Day Tribute
+ * Version    : 1.0.0
+ * Author     : LifeTronix
+ * License    : MIT License
+ * =============================================================================
+ *
+ * An animated Independence Day tribute for a 128×64 SSD1306 OLED using ESP32.
+ * Features a cinematic intro, typewriter-style text animations, transitions,
+ * and a pulsing heart with the message "I ♥ INDIA".
+ *
+ * Hardware:
+ * • ESP32 Development Board
+ * • SSD1306 128×64 OLED Display (I2C)
+ *
+ * Wiring:
+ * VCC → 3.3V
+ * GND → GND
+ * SDA → GPIO 21
+ * SCL → GPIO 22
+ *
+ * Libraries:
+ * • Adafruit GFX
+ * • Adafruit SSD1306
+ *
+ * =============================================================================
+ */
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
